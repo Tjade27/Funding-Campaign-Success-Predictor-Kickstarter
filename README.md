@@ -31,7 +31,6 @@ Based on these thoughts the best model, that we could find so far is a tuned Ran
 
 
 ## Contents of Repository
----
 
 - Project 2 - Kickstarter Campaign Success Predictor.ipynb (main Jupyter Notebook)
 - Project 2 - Kickstarter Presentation.pdf (presentation of findings)
